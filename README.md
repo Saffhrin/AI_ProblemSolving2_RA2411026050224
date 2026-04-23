@@ -24,7 +24,7 @@ Rule-Based Inference using Propositional Logic.
 
 ### Run Online (Web App)
 Open the Streamlit application:  
-https://aiproblemsolving2ra2411026050224-m4z5snsevsczqmjpmmmgnh.streamlit.app/  
+https://aiproblemsolving2ra2411026050224-m4z5snsevsczqmjpmmmgnh.streamlit.app/ 
 
 ## Sample Input
 Policy Active = Yes  
