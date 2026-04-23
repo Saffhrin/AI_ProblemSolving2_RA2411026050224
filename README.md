@@ -16,4 +16,4 @@ Go to InsuranceSystem folder and run:
 python main.py
 
 ### Run Online
-https://your-streamlit-link.streamlit.app
+https://aiproblemsolving2ra2411026050224-m4z5snsevsczqmjpmmmgnh.streamlit.app/
