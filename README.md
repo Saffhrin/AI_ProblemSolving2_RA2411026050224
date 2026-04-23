@@ -39,5 +39,8 @@ Claim Approved
 - Rules applied  
 - Final decision  
 
+## Contributed by
+X.P.Saffhrin , RA2411026050224
+
 ## Conclusion
 This project demonstrates how propositional logic can be used to automate decision-making in real-world applications like insurance claim processing.
