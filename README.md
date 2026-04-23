@@ -1,19 +1,43 @@
-# AI_ProblemSolving2_RA2411026050224
-## Problem Implemented
-Rule-Based Insurance Claim Decision System
+# Rule-Based Insurance Claim Decision System
 
-## Description
-This system evaluates insurance claims using propositional logic and rule-based inference.
+## Problem Description
+This system evaluates insurance claims using rule-based inference and propositional logic. It determines whether a claim should be approved or rejected based on predefined logical rules.
 
-## Technologies Used
-- Python
-- Streamlit
+## Algorithm Used
+Rule-Based Inference using Propositional Logic.
 
-## How to Run
+## Rules
+- IF Policy Active AND Documents Valid THEN Approve Claim  
+- IF Accident Not Reported THEN Reject Claim  
+
+## Input Facts
+- Policy Active (Yes/No)  
+- Documents Valid (Yes/No)  
+- Accident Reported (Yes/No)  
+
+## Execution Steps
 
 ### Run Locally
-Go to InsuranceSystem folder and run:
-python main.py
+1. Navigate to InsuranceSystem folder  
+2. Run:
+   python main.py  
 
-### Run Online
-https://aiproblemsolving2ra2411026050224-m4z5snsevsczqmjpmmmgnh.streamlit.app/
+### Run Online (Web App)
+Open the Streamlit application:  
+https://aiproblemsolving2ra2411026050224-m4z5snsevsczqmjpmmmgnh.streamlit.app/  
+
+## Sample Input
+Policy Active = Yes  
+Documents Valid = Yes  
+Accident Reported = Yes  
+
+## Sample Output
+Claim Approved  
+
+## Output Display
+- Input facts  
+- Rules applied  
+- Final decision  
+
+## Conclusion
+This project demonstrates how propositional logic can be used to automate decision-making in real-world applications like insurance claim processing.
